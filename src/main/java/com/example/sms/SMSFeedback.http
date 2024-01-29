@@ -1,0 +1,7 @@
+POST http://localhost:8080/v1/sms/messages
+Content-Type: application/json
+
+{
+  "toNumber":"add your phone number here" ,
+  "message":"add your message here"
+}
