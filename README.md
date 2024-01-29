@@ -15,4 +15,4 @@ Before getting started, ensure you have the following:
 ## Setup
 1. Clone this repository:
   
-   git clone https://github.com/yourusername/twilio-sms-spring-boot.git
+   git clone https://github.com/Gayan-98/Twilio-SMS.git
