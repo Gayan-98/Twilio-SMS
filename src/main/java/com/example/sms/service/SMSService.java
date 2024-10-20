@@ -18,10 +18,10 @@ public class SMSService {
     private static final Logger logger = LoggerFactory.getLogger(SMSService.class);
 
     // Twilio account SID
-    private final String accId = "AC737befc330f724f4f262228915ebe49b";
+    private final String accId = "";
 
     // Twilio's authentication token
-    private final String token = "436521cc35a177ebf6f4672624406670";
+    private final String token = "";
 
 
     public void sendSMS(SMSFeedback smsFeedback) {
